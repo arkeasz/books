@@ -1,0 +1,9 @@
+[book]
+authors = ["cronobacter"]
+language = "en"
+multilingual = false
+src = "src"
+title = "books"
+
+[output.html]
+default-theme = "Ayu"
