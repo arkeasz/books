@@ -12,6 +12,10 @@ Before you start, make sure you have the following:
    ```
 2. Basic familiarity with Markdown and the project structure.
 
+3. Set up a local commit message template:  
+   ```bash
+   git config commit.template .gitmessage
+   ```
 ---
 
 ## 📂 Project Structure
