@@ -1,0 +1,35 @@
+# Title: Brief summary, imperative, start with an uppercase letter, no period
+# No more than 50 characters. #### 50 characters is here: #
+
+# Remember to leave a blank line between the title and the body.
+
+# Body: Explain *what* and *why* (not *how*).
+# Provide relevant details about the changes, including a short list.
+# Wrap lines at 72 characters. ########################## here: #
+
+# At the end: Include "Co-authored-by" if needed.
+# Leave at least one blank line before it. Format:
+# Co-authored-by: name <user@users.noreply.github.com>
+
+# Example:
+# feat: Add multiple PDFs to Books project
+
+# Added new PDFs to enhance the collection, covering topics such as:
+# - Physics
+# - Calculus
+# - General
+# - Statistical Mechanics
+
+# Prefix examples:
+# feat:     Adding a new feature or functionality.
+# fix:      Fixing a bug or issue.
+# docs:     Updating documentation files.
+# style:    Changes to formatting, no code changes.
+# refactor: Code refactoring without changing functionality.
+# test:     Adding or updating tests.
+# chore:    Minor tasks like updating dependencies or configs.  
+
+# This expands the resource library for physics and calculus studies.
+
+# Fixes: #123
+# Co-authored-by: Arki <arki@users.noreply.github.com>
